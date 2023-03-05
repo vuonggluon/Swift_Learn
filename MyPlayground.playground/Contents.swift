@@ -38,7 +38,7 @@ var Result = "The tempature today is: \(temparture_today)"
 var Display = "Our news today: \(Result)"
 
 //Constants
-let me = "forever 20"
+let me = "forever 21"
 
 //Type Anotation
 var name: String
